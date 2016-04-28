@@ -1,0 +1,5 @@
+On April the 27th, 2016, the use of the Cleanflight open-source code project was proposed and dismissed. The Cleanflight project
+is designed for use with CERTAIN flight controllers, and since we are not using a flight controller but rather the arduino uno
+with project-specific code to allow it to have the same functionality as a flight controller for this project, the Cleanflight 
+project will not be an effecive solution for our programming needs. Instead, we will make our own libraries and combine them in
+our program. 
