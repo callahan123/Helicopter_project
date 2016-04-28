@@ -3,4 +3,4 @@ Notes, project updates and project info: Notes folder
 
 Ideas: Concepts folder
 
-Code and related files: Development folder
+Any info related to project development, code and physical: Development folder
