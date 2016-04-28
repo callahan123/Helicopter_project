@@ -1,5 +1,5 @@
 # Helicopter_project\
-Notes and project updates: Notes folder
+Notes, project updates and project info: Notes folder
 
 Ideas and thoughts: Concepts folder
 
