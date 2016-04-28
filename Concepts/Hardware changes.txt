@@ -1,1 +1,2 @@
-Maybe, we could use solar panels so that we can boost our battery life on a single charge. That is a possibility. Will check price on that implementation.
+Maybe, we could use solar panels so that we can boost our battery life on a single charge. That is a possibility. Will check price
+on that implementation.
