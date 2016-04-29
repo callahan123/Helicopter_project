@@ -3,3 +3,4 @@ on that implementation.
 Ok, did some searching for a solar panel. We could use this:
  http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&productId=2136913&catalogId=10001&langId=-1&CID=GOOG&gclid=CjwKEAjwxoG5BRCC7ezlzNmR8HUSJAAre36j_4oCQKukF0RdZfdVIshZJIZ-tf6jCJaffN62Eq5-WRoCNvfw_wcB
 It's about $5, is really small, and maybe 4 or 5 of these could charge the battery with the system under full load.
+

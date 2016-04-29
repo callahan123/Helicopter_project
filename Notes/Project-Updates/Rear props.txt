@@ -1,0 +1,1 @@
+Ok, changed rear prop setup, gonna have 2 props with stationary angle, change torque by increasing speed of it. Did this to spare PWM on uno.
