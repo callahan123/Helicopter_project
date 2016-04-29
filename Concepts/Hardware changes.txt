@@ -4,3 +4,7 @@ Ok, did some searching for a solar panel. We could use this:
  http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&productId=2136913&catalogId=10001&langId=-1&CID=GOOG&gclid=CjwKEAjwxoG5BRCC7ezlzNmR8HUSJAAre36j_4oCQKukF0RdZfdVIshZJIZ-tf6jCJaffN62Eq5-WRoCNvfw_wcB
 It's about $5, is really small, and maybe 4 or 5 of these could charge the battery with the system under full load.
 
+
+CAllahan:
+i dont think its worth it cause 
+its not just the solar panel you have to get a 2 set of ac to dc converts which is about 35 for a set of four and the point is to make it function on a high level but also keeping it simple adding all this stuff is cool but its not practical for what we are doing with the heli cause if you buy 2 to 3 battires that can range from 2-5 hours of life which is more then enofe.
