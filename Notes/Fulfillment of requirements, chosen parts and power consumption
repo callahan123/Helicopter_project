@@ -4,9 +4,9 @@ Needs the ability to:
 
 Find location(G.P.S. system)
 Send live footage and flight data over to control center(long range wifi; limited to 30 dbm(1 watt)transmitter, 36 dbi EIRP): Look here for info: https://hak5.org/episodes/hak5-1515
-Identify it’s yaw, roll and pitch(Gyro system)
+Identify it's yaw, roll and pitch(Gyro system)
 Identify speed of vehicle(G.P.S.)
-Identify which direction it’s pointing at(compass)
+Identify which direction it's pointing at(compass)
 Identify which position the rotor shaft is at(G.P.S. / compass)
 Identify altitude and altitude change(G.P.S system)
 Have a rotating tail motor that can change yaw
@@ -15,18 +15,15 @@ Choices:
 
 G.P.S system: https://www.adafruit.com/products/746: 20 milli-a 
 Arduino Uno: Website 50 milli-a
-Data transfer system: Use Dad’s phone’s 4g to communicate with controller, then branch data out to all operators. 
+Data transfer system: Use Dad's phone's 4g to communicate with controller, then branch data out to all operators. 
 For bluetooth connection to phone or operator: https://www.adafruit.com/products/2479: 29.4 milli-a
 Magnetometer/compass(2 of them, calculations are for 2): https://www.adafruit.com/products/1746 100 micro-a
 Camera system: https://amcrest.com/amcrest-3mp-poe-video-security-camera-vandal-dome-ip3m-956e-black.html 200 ma(estimate)
 Second camera for pilot: http://www.elpcctv.com/h264-hd-720p-usb-camera-module-usb20-ov9712-color-sensor-with-digital-audio-36mm-lens-p-227.html 180 ma 
-
-
 Motors: Main shaft motor: 
 https://www.parallax.com/product/900-00025, 130 ma x 2
 Rotor angle modifier motor:  https://www.sparkfun.com/products/9065, 180ma x 5
 Wings: 3d print flat blades with curved ends to maximize efficiency
-Battery: Identify a battery that has enough capacity and low weight, based on the other components
 Battery: http://limefuelstore.com/products/usb-external-battery-pack-aluminum-20000mah-5v-2-1a-blast-l200x-pro.html 20 AMP HOURS
 1.619 amps worst case scenario 
 About 10 hours of operations WORST CASE SCENARIO
